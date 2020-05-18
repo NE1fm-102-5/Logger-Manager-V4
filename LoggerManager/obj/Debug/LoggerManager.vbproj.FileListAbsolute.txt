@@ -1,0 +1,13 @@
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LoggerManager\LoggerManager\obj\Debug\LoggerManager.Form1.resources
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LoggerManager\LoggerManager\obj\Debug\LoggerManager.Resources.resources
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LoggerManager\LoggerManager\obj\Debug\LoggerManager.vbproj.GenerateResource.Cache
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LoggerManager\LoggerManager\obj\Debug\LoggerManager.vbproj.CoreCompileInputs.cache
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LoggerManager\LoggerManager\obj\Debug\LoggerManager.passbox.resources
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LoggerManager\LoggerManager\obj\Debug\LoggerManager.vbprojAssemblyReference.cache
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LoggerManager\LoggerManager\bin\Debug\LoggerManager.exe.config
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LoggerManager\LoggerManager\bin\Debug\LoggerManager.exe
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LoggerManager\LoggerManager\bin\Debug\LoggerManager.pdb
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LoggerManager\LoggerManager\bin\Debug\LoggerManager.xml
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LoggerManager\LoggerManager\obj\Debug\LoggerManager.exe
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LoggerManager\LoggerManager\obj\Debug\LoggerManager.xml
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LoggerManager\LoggerManager\obj\Debug\LoggerManager.pdb

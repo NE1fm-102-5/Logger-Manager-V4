@@ -1,0 +1,13 @@
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LoggerManager\LoggerManager\bin\Debug\NE1fmConsole.exe.config
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LoggerManager\LoggerManager\bin\Debug\NE1fmConsole.exe
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LoggerManager\LoggerManager\bin\Debug\NE1fmConsole.pdb
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LoggerManager\LoggerManager\bin\Debug\NE1fmConsole.xml
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LoggerManager\LoggerManager\obj\Debug\NE1fmConsole.vbprojAssemblyReference.cache
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LoggerManager\LoggerManager\obj\Debug\NE1fmConsole.passbox.resources
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LoggerManager\LoggerManager\obj\Debug\NE1fmConsole.Form1.resources
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LoggerManager\LoggerManager\obj\Debug\NE1fmConsole.Resources.resources
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LoggerManager\LoggerManager\obj\Debug\NE1fmConsole.vbproj.GenerateResource.cache
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LoggerManager\LoggerManager\obj\Debug\NE1fmConsole.vbproj.CoreCompileInputs.cache
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LoggerManager\LoggerManager\obj\Debug\NE1fmConsole.exe
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LoggerManager\LoggerManager\obj\Debug\NE1fmConsole.xml
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LoggerManager\LoggerManager\obj\Debug\NE1fmConsole.pdb
